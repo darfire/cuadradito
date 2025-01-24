@@ -1,11 +1,11 @@
 # Quadradito
 A high performance algorithmic trading framework, supporting both live/paper trading and backtesting.
 
-[!WARNING]
-This project is in the early stages of development and is not yet ready for production use. The API is subject to change.
+>[!WARNING]
+>This project is in the early stages of development and is not yet ready for production use. The API is subject to change.
 
-[!CAUTION]
-Quadradito is provided as-is, without any warranty. Use at your own risk.
+>[!CAUTION]
+>Quadradito is provided as-is, without any warranty. Use at your own risk.
 
 ## Goals
 ### High Performance
