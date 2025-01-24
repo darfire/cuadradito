@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "base",
+  "parquet_driver",
+  "dummy",
+]

@@ -1,0 +1,23 @@
+[package]
+name = "dummy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base = { path = "../base" }
+toml = "0.8.19"
+tokio = { version = "1.0.1", features = ["full"] }
+rand = "0.8.5"
+rand_distr = "0.4.3"
+async-trait = "0.1.51"
+arrow = "54.0.0"
+futures = "0.3.31"
+
+[lib]
+name = "dummy"
+path = "src/lib.rs"
+
+[[bin]]
+name = "dummy-runner"
+path = "src/bin.rs"
+
