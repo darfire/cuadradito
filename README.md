@@ -88,4 +88,4 @@ There are many ways to contribute to Quadradito:
 * Improve the documentation
 
 ## License
-The project is licensed under the MIT license.
+The project is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
